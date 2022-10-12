@@ -10,9 +10,9 @@ We began our discussion by first listing out comic art styles we wanted to repro
 Next, we began building the website according to our wireframe, with varying adjustments along the way. We did not want to limit our theme of diverse art styles to the comic panels alone, so we decided to also create the website with a distinct design in mind. This is how we ended up with a retro arcade game design for the website and pixelated buttons to traverse through panels (and drop Professor S. into different universes).
 
 <h4>My contributions</h4>
-* Created panel 6 (breaking fourth wall panel) in photoshop.
-* Organised panels 1 to 7 into seperate divs in html file and imbeded the comic panels
-* Created the portal transition by building functions in javascript
+a) Created panel 6 (breaking fourth wall panel) in photoshop<br>
+b) Organised panels 1 to 7 into seperate divs in html file and imbeded the comic panels<br>
+c) Created the portal transition by building functions in javascript
 
-<h4>Evaluation</h4>
+<h4>Evaluation</h4><br>
 I am happy with the final website and enjoyed creating it. I believe it conveys a cohesive story well, with high-quality art and fun interactions. I also wanted to incorporate unique sound effects for each individual panel, but I was not able to get the code to work consistently in time, so I decided to avoid it all together. I hope to employ sounds effects and other sensory stimuli in future projects for a more immersive experience.
